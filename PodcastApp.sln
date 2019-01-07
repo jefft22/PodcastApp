@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FetcherService", "FetcherService\FetcherService.csproj", "{0BA17265-08E9-433C-8B4C-9BCA8359464D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{17FB6A27-7947-4135-B37C-EE6A3D117838}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA17265-08E9-433C-8B4C-9BCA8359464D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA17265-08E9-433C-8B4C-9BCA8359464D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA17265-08E9-433C-8B4C-9BCA8359464D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA17265-08E9-433C-8B4C-9BCA8359464D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FB6A27-7947-4135-B37C-EE6A3D117838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FB6A27-7947-4135-B37C-EE6A3D117838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FB6A27-7947-4135-B37C-EE6A3D117838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FB6A27-7947-4135-B37C-EE6A3D117838}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {472230A7-F031-4E72-B47E-C01777823B8F}
+	EndGlobalSection
+EndGlobal

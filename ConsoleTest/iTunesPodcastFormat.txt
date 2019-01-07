@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <itunes:type>episodic</itunes:type>
+    <language>en-ca</language>
+    <title>Ideas from CBC Radio (Highlights)</title>
+    <link>http://www.cbc.ca/radio/podcasts/documentaries/the-best-of-ideas/</link>
+    <description>Ideas is all about ideas \x96 programs that explore everything from culture and the arts to science and technology to social issues.</description>
+    <itunes:summary>Ideas is all about ideas \x96 programs that explore everything from culture and the arts to science and technology to social issues.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>CBC</itunes:name>
+      <itunes:email>podcasting@cbc.ca</itunes:email>
+    </itunes:owner>
+    <copyright>Copyright © CBC 2018</copyright>
+    <itunes:category text="Society &amp; Culture" />
+    <itunes:author>CBC Radio</itunes:author>
+    <itunes:image href="https://www.cbc.ca/radio/podcasts/images/promo-ideas.jpg"/>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <guid>ideas-42826bcc-3d15-4438-85d6-704ca1a39381</guid>
+      <title>Why Environmentalism is Failing</title>
+      <description>Environmental problems are well-known and have been for decades, but we still appear to be edging towards a global catastrophe. Why? Environmentalist Graham Saul believes that part of the problem is environmentalism itself. He believes it has a message problem - mainly because it doesn&apos;t have a single, coherent, unified message that people can grasp. Graham Saul has been on the forefront of environmental thought and activism for over 25 years. In this lecture, he parses the problem and points towards a step with potential planet-saving implications.</description>
+      <itunes:subtitle>Environmental problems are well-known and have been for decades, but we still appear to be edging towards a global catastrophe. Why? Environmentalist Graham Saul believes that part of the problem is environmentalism itself. He believes it has a message problem - mainly because it doesn&apos;t have a single, coherent, unified message that people can grasp. Graham Saul has been on the forefront of environmental thought and activism for over 25 years. In this lecture, he parses the problem and points towards a step with potential planet-saving implications.</itunes:subtitle>
+      <itunes:summary>Environmental problems are well-known and have been for decades, but we still appear to be edging towards a global catastrophe. Why? Environmentalist Graham Saul believes that part of the problem is environmentalism itself. He believes it has a message problem - mainly because it doesn&apos;t have a single, coherent, unified message that people can grasp. Graham Saul has been on the forefront of environmental thought and activism for over 25 years. In this lecture, he parses the problem and points towards a step with potential planet-saving implications.</itunes:summary>
+      <pubDate>Fri, 23 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:26</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-dqyWZjYN-20181123.mp3" length="52494699"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-2b383267-4602-4018-9015-b50d0a3f4fb1</guid>
+      <title>The Accommodating Space: A Hotel Check-In</title>
+      <description>A guest checks into a Las Vegas hotel suite, and makes it a fortress, staging a mass shooting on the city below. It&apos;s a horrific act that seems to subvert the very ethos of hotels - places of hospitality and calm. Yet hotels contain multitudes. They are sites of fantasy and functionality, pleasure and trouble. Their spaces are public and private, workplace and bedroom. They exist to house us temporarily, in luxury or in squalor. IDEAS producer Lisa Godfrey explores hotels, both in reality and the imagination, with hotel workers, designers, and writers -  to reveal how hotels reflect private desires and social truths.</description>
+      <itunes:subtitle>A guest checks into a Las Vegas hotel suite, and makes it a fortress, staging a mass shooting on the city below. It&apos;s a horrific act that seems to subvert the very ethos of hotels - places of hospitality and calm. Yet hotels contain multitudes. They are sites of fantasy and functionality, pleasure and trouble. Their spaces are public and private, workplace and bedroom. They exist to house us temporarily, in luxury or in squalor. IDEAS producer Lisa Godfrey explores hotels, both in reality and the imagination, with hotel workers, designers, and writers -  to reveal how hotels reflect private desires and social truths.</itunes:subtitle>
+      <itunes:summary>A guest checks into a Las Vegas hotel suite, and makes it a fortress, staging a mass shooting on the city below. It&apos;s a horrific act that seems to subvert the very ethos of hotels - places of hospitality and calm. Yet hotels contain multitudes. They are sites of fantasy and functionality, pleasure and trouble. Their spaces are public and private, workplace and bedroom. They exist to house us temporarily, in luxury or in squalor. IDEAS producer Lisa Godfrey explores hotels, both in reality and the imagination, with hotel workers, designers, and writers -  to reveal how hotels reflect private desires and social truths.</itunes:summary>
+      <pubDate>Thu, 22 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:26</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-C3UDySPb-20181122.mp3" length="52494778"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-1e5aa684-c148-451a-95c9-fa2b0191e41d</guid>
+      <title>What to expect when you&apos;re expecting .... Climate Change</title>
+      <description>Young couples face a complicated decision at a time when the dire consequences of climate change are becoming clearer, is it ethical to bring a child into the world? Science journalist Britt Wray talks with parents, prospective parents, ethicists and children on this thorny question.</description>
+      <itunes:subtitle>Young couples face a complicated decision at a time when the dire consequences of climate change are becoming clearer, is it ethical to bring a child into the world? Science journalist Britt Wray talks with parents, prospective parents, ethicists and children on this thorny question.</itunes:subtitle>
+      <itunes:summary>Young couples face a complicated decision at a time when the dire consequences of climate change are becoming clearer, is it ethical to bring a child into the world? Science journalist Britt Wray talks with parents, prospective parents, ethicists and children on this thorny question.</itunes:summary>
+      <pubDate>Wed, 21 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:43</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-MPQJso75-20181121.mp3" length="52766127"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-a0a12354-e15e-4fbb-8635-5262b050db9a</guid>
+      <title>Christopher Hedges: Farewell America</title>
+      <description>Christopher Hedges believes that America may well be in its last act. Addiction, income disparity and hollowed-out towns and cities are becoming the norm, he argues, while the political and financial sectors increasingly merge with each other to the exclusion of anyone else&apos;s interests or needs. His vision is dark, and sobering. Its only salvation, he concludes in this illustrated conversation with guest host Rachel Giese, is mass resistance.</description>
+      <itunes:subtitle>Christopher Hedges believes that America may well be in its last act. Addiction, income disparity and hollowed-out towns and cities are becoming the norm, he argues, while the political and financial sectors increasingly merge with each other to the exclusion of anyone else&apos;s interests or needs. His vision is dark, and sobering. Its only salvation, he concludes in this illustrated conversation with guest host Rachel Giese, is mass resistance.</itunes:subtitle>
+      <itunes:summary>Christopher Hedges believes that America may well be in its last act. Addiction, income disparity and hollowed-out towns and cities are becoming the norm, he argues, while the political and financial sectors increasingly merge with each other to the exclusion of anyone else&apos;s interests or needs. His vision is dark, and sobering. Its only salvation, he concludes in this illustrated conversation with guest host Rachel Giese, is mass resistance.</itunes:summary>
+      <pubDate>Mon, 19 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-Qy1UMBVG-20181119.mp3" length="52757910"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-f289e698-db01-4756-9af4-7d5a13903fa8</guid>
+      <title>Lecture 5: &quot;We Are Not Going Anywhere&quot; (2018 CBC Massey Lectures)</title>
+      <description>Prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples in her 2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward.</description>
+      <itunes:subtitle>Prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples in her 2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward.</itunes:subtitle>
+      <itunes:summary>Prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples in her 2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward.</itunes:summary>
+      <pubDate>Fri, 16 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-gyYxjlnA-20181116.mp3" length="52757724"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-8d44bf76-197d-4515-9c48-69a03ecdfb6c</guid>
+      <title>Lecture 4: &quot;I Breathe For Them&quot; (2018 CBC Massey Lectures)</title>
+      <description>Prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples in her 2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward.</description>
+      <itunes:subtitle>Prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples in her 2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward.</itunes:subtitle>
+      <itunes:summary>Prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples in her 2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward.</itunes:summary>
+      <pubDate>Thu, 15 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-ipOnItDl-20181115.mp3" length="52757717"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-e2d1a094-f7f4-4f73-914e-16b1e5752424</guid>
+      <title>Lecture 3: &quot;The Third Space&quot; (The 2018 CBC Massey Lectures)</title>
+      <description>Prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples in her  2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward.</description>
+      <itunes:subtitle>Prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples in her  2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward.</itunes:subtitle>
+      <itunes:summary>Prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples in her  2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward.</itunes:summary>
+      <pubDate>Wed, 14 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-XnwxzqJs-20181114.mp3" length="52757719"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-0a89a18d-f69e-479a-8ce9-7c66cefe3ecf</guid>
+      <title>Lecture 2: &quot;Big Brother&apos;s Hunger&quot; by Tanya Talaga (2018 CBC Massey Lectures)</title>
+      <description>In her 2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward, prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples.</description>
+      <itunes:subtitle>In her 2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward, prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples.</itunes:subtitle>
+      <itunes:summary>In her 2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward, prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples.</itunes:summary>
+      <pubDate>Tue, 13 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-3oh2QrHO-20181113.mp3" length="52757954"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-45d5ceaa-e1ba-4ecb-bb96-5f8b5216f81f</guid>
+      <title>Tom Thomson: 100 years from now</title>
+      <description>IDEAS contributor Sean Foley asks one central question: does the mortal and material fascination with Tom Thomson, leave us with something enduring - something to carry us through the next century, and beyond?</description>
+      <itunes:subtitle>IDEAS contributor Sean Foley asks one central question: does the mortal and material fascination with Tom Thomson, leave us with something enduring - something to carry us through the next century, and beyond?</itunes:subtitle>
+      <itunes:summary>IDEAS contributor Sean Foley asks one central question: does the mortal and material fascination with Tom Thomson, leave us with something enduring - something to carry us through the next century, and beyond?</itunes:summary>
+      <pubDate>Fri, 09 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-d9A8zjNj-20181109.mp3" length="52746383"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-ac70a82a-708c-415b-a552-5d6c9c97d71d</guid>
+      <title>Lecture 1: &quot;We Were Always Here&quot; by Tanya Talaga (2018 CBC Massey Lectures)</title>
+      <description>In her 2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward, prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples.
+For Talaga, that cultural genocide has led to a forced disconnection from land and language by Indigenous peoples. The need now, she says, is for Indigenous self-determination in social, cultural and political arenas.</description>
+      <itunes:subtitle>In her 2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward, prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples.
+For Talaga, that cultural genocide has led to a forced disconnection from land and language by Indigenous peoples. The need now, she says, is for Indigenous self-determination in social, cultural and political arenas.</itunes:subtitle>
+      <itunes:summary>In her 2018 CBC Massey Lectures series, titled All Our Relations: Finding the Path Forward, prize-winning journalist Tanya Talaga (author of Seven Fallen Feathers) explores the legacy of cultural genocide against Indigenous peoples.
+For Talaga, that cultural genocide has led to a forced disconnection from land and language by Indigenous peoples. The need now, she says, is for Indigenous self-determination in social, cultural and political arenas.</itunes:summary>
+      <pubDate>Fri, 09 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-OkIg8zdp-20181109.mp3" length="52757953"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-5911c8cc-e1f7-4181-aad3-90e9939d80a5</guid>
+      <title>Data for Social Good</title>
+      <description>We live in a glut of data. Individually we produce vast amounts of information about ourselves simply by living our lives: where we go, what we like, where we shop, our political views, which programs we watch. Each day we produce 2.5 quintillion bytes of data and the rate is growing. In the last two years alone we&apos;ve generated about 90% of the data that&apos;s out there. IDEAS contributor Anik See looks at this tremendous amount of data and how some people are harnessing it, not for surveillance or selling, but rather for the public good.</description>
+      <itunes:subtitle>We live in a glut of data. Individually we produce vast amounts of information about ourselves simply by living our lives: where we go, what we like, where we shop, our political views, which programs we watch. Each day we produce 2.5 quintillion bytes of data and the rate is growing. In the last two years alone we&apos;ve generated about 90% of the data that&apos;s out there. IDEAS contributor Anik See looks at this tremendous amount of data and how some people are harnessing it, not for surveillance or selling, but rather for the public good.</itunes:subtitle>
+      <itunes:summary>We live in a glut of data. Individually we produce vast amounts of information about ourselves simply by living our lives: where we go, what we like, where we shop, our political views, which programs we watch. Each day we produce 2.5 quintillion bytes of data and the rate is growing. In the last two years alone we&apos;ve generated about 90% of the data that&apos;s out there. IDEAS contributor Anik See looks at this tremendous amount of data and how some people are harnessing it, not for surveillance or selling, but rather for the public good.</itunes:summary>
+      <pubDate>Thu, 08 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-jMBmWi8n-20181108.mp3" length="52757988"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-52f4cee0-1a46-4215-9cc2-8254f6cd05c9</guid>
+      <title>Human Rights Under Attack: Gareth Peirce on The New Dark Age</title>
+      <description>For more than 40 years, Gareth Peirce has fought to expose and overturn miscarriages of justice and free the wrongfully accused. Based in London, she was instrumental in freeing members of the Guildford Four, who were falsely convicted of carrying out the IRA bombing of a British pub. More recently, she has been representing members of the new suspect community - Muslims falsely accused of being terrorists. Peirce warns eroding human rights under the questionable guise of national security, is a profound attack on democracy.</description>
+      <itunes:subtitle>For more than 40 years, Gareth Peirce has fought to expose and overturn miscarriages of justice and free the wrongfully accused. Based in London, she was instrumental in freeing members of the Guildford Four, who were falsely convicted of carrying out the IRA bombing of a British pub. More recently, she has been representing members of the new suspect community - Muslims falsely accused of being terrorists. Peirce warns eroding human rights under the questionable guise of national security, is a profound attack on democracy.</itunes:subtitle>
+      <itunes:summary>For more than 40 years, Gareth Peirce has fought to expose and overturn miscarriages of justice and free the wrongfully accused. Based in London, she was instrumental in freeing members of the Guildford Four, who were falsely convicted of carrying out the IRA bombing of a British pub. More recently, she has been representing members of the new suspect community - Muslims falsely accused of being terrorists. Peirce warns eroding human rights under the questionable guise of national security, is a profound attack on democracy.</itunes:summary>
+      <pubDate>Wed, 07 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-1aOqPHyl-20181107.mp3" length="52758853"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-cfb4abb6-8162-43fc-8d25-8645789ed0e7</guid>
+      <title>Travels through Trump&apos;s America (Encore January 19, 2018)</title>
+      <description>The U.S. midterms are yet another prompt for many Americans - and people around the world - to reflect on what America actually is now, politically, socially and culturally. Contributor David Zane Mairowitz is originally from New York, and has been living in Europe for over 50 years. He returned to the U.S. in the spring of 2017 to travel through six southern states, where he recorded his encounters with everyday people at restaurants, churches - and gun shows. His aim: to gain insight into an America he&apos;s now struggling to comprehend.</description>
+      <itunes:subtitle>The U.S. midterms are yet another prompt for many Americans - and people around the world - to reflect on what America actually is now, politically, socially and culturally. Contributor David Zane Mairowitz is originally from New York, and has been living in Europe for over 50 years. He returned to the U.S. in the spring of 2017 to travel through six southern states, where he recorded his encounters with everyday people at restaurants, churches - and gun shows. His aim: to gain insight into an America he&apos;s now struggling to comprehend.</itunes:subtitle>
+      <itunes:summary>The U.S. midterms are yet another prompt for many Americans - and people around the world - to reflect on what America actually is now, politically, socially and culturally. Contributor David Zane Mairowitz is originally from New York, and has been living in Europe for over 50 years. He returned to the U.S. in the spring of 2017 to travel through six southern states, where he recorded his encounters with everyday people at restaurants, churches - and gun shows. His aim: to gain insight into an America he&apos;s now struggling to comprehend.</itunes:summary>
+      <pubDate>Tue, 06 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-0dv3UUF8-20181106.mp3" length="52758026"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-ee9af120-c57d-4135-b62f-098c380083df</guid>
+      <title>The Enright Files: The state of American democracy in the age of Trump</title>
+      <description>The U.S. midterm elections have been billed as a referendum on the presidency of Donald Trump. And many think the elections will chart the future course of American democracy at a time when anger, xenophobia, chaos and bitter partisanship and polarization have led people to despair for the future of liberal democracy.</description>
+      <itunes:subtitle>The U.S. midterm elections have been billed as a referendum on the presidency of Donald Trump. And many think the elections will chart the future course of American democracy at a time when anger, xenophobia, chaos and bitter partisanship and polarization have led people to despair for the future of liberal democracy.</itunes:subtitle>
+      <itunes:summary>The U.S. midterm elections have been billed as a referendum on the presidency of Donald Trump. And many think the elections will chart the future course of American democracy at a time when anger, xenophobia, chaos and bitter partisanship and polarization have led people to despair for the future of liberal democracy.</itunes:summary>
+      <pubDate>Mon, 05 Nov 2018 12:00:00 EST</pubDate>
+      <itunes:duration>00:54:43</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-27FGQprQ-20181105.mp3" length="52762852"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-56b0c7e0-a83c-4cfc-b32a-fcd50ba8a53b</guid>
+      <title>The Long Arm of Ayn Rand: Why she still matters, Part 2</title>
+      <description>The intelligentsia mocked her writings and lampooned her philosophy, which she called Objectivism. But Ayn Rand&apos;s books, especially her two major works, The Fountainhead and Atlas Shrugged, continue to sell millions of copies. There are Ayn Rand think tanks, academies, even dating sites. And her influence on politics and popular culture are stronger than ever. Contributor Sandy Bourque outlines Rand&apos;s improbable rise to fame and influence, and the surprising Canadian connection which helped secure her place in the history of ideas. This episode is part 2 of a two-part series.</description>
+      <itunes:subtitle>The intelligentsia mocked her writings and lampooned her philosophy, which she called Objectivism. But Ayn Rand&apos;s books, especially her two major works, The Fountainhead and Atlas Shrugged, continue to sell millions of copies. There are Ayn Rand think tanks, academies, even dating sites. And her influence on politics and popular culture are stronger than ever. Contributor Sandy Bourque outlines Rand&apos;s improbable rise to fame and influence, and the surprising Canadian connection which helped secure her place in the history of ideas. This episode is part 2 of a two-part series.</itunes:subtitle>
+      <itunes:summary>The intelligentsia mocked her writings and lampooned her philosophy, which she called Objectivism. But Ayn Rand&apos;s books, especially her two major works, The Fountainhead and Atlas Shrugged, continue to sell millions of copies. There are Ayn Rand think tanks, academies, even dating sites. And her influence on politics and popular culture are stronger than ever. Contributor Sandy Bourque outlines Rand&apos;s improbable rise to fame and influence, and the surprising Canadian connection which helped secure her place in the history of ideas. This episode is part 2 of a two-part series.</itunes:summary>
+      <pubDate>Fri, 02 Nov 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:43</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-ypGQ8gs5-20181102.mp3" length="52776873"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-8b17f017-0434-49bb-b286-0e4b01419f42</guid>
+      <title>The Long Arm of Ayn Rand: Why She Still Matters, Part 1</title>
+      <description>The intelligentsia mocked her writings and lampooned her philosophy, which she called Objectivism. But Ayn Rand&apos;s books, especially her two major works The Fountainhead and Atlas Shrugged, continue to sell millions of copies. There are Ayn Rand think tanks, academies, even dating sites. And her influence on politics and popular culture are stronger than ever. Contributor Sandy Bourque outlines Rand&apos;s improbable rise to fame and influence, and the surprising Canadian connection, which helped secure her place in the history of ideas.</description>
+      <itunes:subtitle>The intelligentsia mocked her writings and lampooned her philosophy, which she called Objectivism. But Ayn Rand&apos;s books, especially her two major works The Fountainhead and Atlas Shrugged, continue to sell millions of copies. There are Ayn Rand think tanks, academies, even dating sites. And her influence on politics and popular culture are stronger than ever. Contributor Sandy Bourque outlines Rand&apos;s improbable rise to fame and influence, and the surprising Canadian connection, which helped secure her place in the history of ideas.</itunes:subtitle>
+      <itunes:summary>The intelligentsia mocked her writings and lampooned her philosophy, which she called Objectivism. But Ayn Rand&apos;s books, especially her two major works The Fountainhead and Atlas Shrugged, continue to sell millions of copies. There are Ayn Rand think tanks, academies, even dating sites. And her influence on politics and popular culture are stronger than ever. Contributor Sandy Bourque outlines Rand&apos;s improbable rise to fame and influence, and the surprising Canadian connection, which helped secure her place in the history of ideas.</itunes:summary>
+      <pubDate>Thu, 01 Nov 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-y3rzltTV-20181101.mp3" length="52758020"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-3264a0cf-22cc-499b-80c9-8a9f7a1da6f4</guid>
+      <title>Conservative with Age: Why your political stripes change over time (Encore December 11, 2017)</title>
+      <description>If you&apos;re not a socialist at twenty, you have no heart; and if you&apos;re not a conservative at forty, you have no brain.&quot; The saying has been around since at least the late 19th century, and it&apos;s not entirely clear who coined it. But the fact that it&apos;s still in circulation today says something about the way many of us do become more conservative as the years pass. Producer Peter Mitton explores why this tendency exists, and what it says about the way we acquire our political beliefs.</description>
+      <itunes:subtitle>If you&apos;re not a socialist at twenty, you have no heart; and if you&apos;re not a conservative at forty, you have no brain.&quot; The saying has been around since at least the late 19th century, and it&apos;s not entirely clear who coined it. But the fact that it&apos;s still in circulation today says something about the way many of us do become more conservative as the years pass. Producer Peter Mitton explores why this tendency exists, and what it says about the way we acquire our political beliefs.</itunes:subtitle>
+      <itunes:summary>If you&apos;re not a socialist at twenty, you have no heart; and if you&apos;re not a conservative at forty, you have no brain.&quot; The saying has been around since at least the late 19th century, and it&apos;s not entirely clear who coined it. But the fact that it&apos;s still in circulation today says something about the way many of us do become more conservative as the years pass. Producer Peter Mitton explores why this tendency exists, and what it says about the way we acquire our political beliefs.</itunes:summary>
+      <pubDate>Mon, 29 Oct 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:43</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-u5OxogFM-20181030.mp3" length="52773888"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-38a6417f-0a47-4a8b-b49f-0657d5dbe2fb</guid>
+      <title>Have I Got A Story For You!</title>
+      <description>Narrative thinking is how we process and understand our own story. American psychologist, Dan McAdams wrote, &quot;We are all storytellers, and we are the stories we tell.&quot;  But some of us have no unfolding internal autobiography that helps us bridge our brains and minds. Some of us experience life episodically with one event simply following what came before with no sense of any overarching continuity. If narrative thinking is what makes us human, makes us conscious of ourselves, where does that leave those who who don&apos;t tell themselves this story, and their place in the world?</description>
+      <itunes:subtitle>Narrative thinking is how we process and understand our own story. American psychologist, Dan McAdams wrote, &quot;We are all storytellers, and we are the stories we tell.&quot;  But some of us have no unfolding internal autobiography that helps us bridge our brains and minds. Some of us experience life episodically with one event simply following what came before with no sense of any overarching continuity. If narrative thinking is what makes us human, makes us conscious of ourselves, where does that leave those who who don&apos;t tell themselves this story, and their place in the world?</itunes:subtitle>
+      <itunes:summary>Narrative thinking is how we process and understand our own story. American psychologist, Dan McAdams wrote, &quot;We are all storytellers, and we are the stories we tell.&quot;  But some of us have no unfolding internal autobiography that helps us bridge our brains and minds. Some of us experience life episodically with one event simply following what came before with no sense of any overarching continuity. If narrative thinking is what makes us human, makes us conscious of ourselves, where does that leave those who who don&apos;t tell themselves this story, and their place in the world?</itunes:summary>
+      <pubDate>Thu, 25 Oct 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-Ep2sOhVa-20181025.mp3" length="52758035"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-dacadd4a-22f6-438b-a073-c39759a7a653</guid>
+      <title>Avenging Empire: My time in the IRA</title>
+      <description>Bank robberies, building explosives and prison hunger strikes. These were just part of Kieran Conway&apos;s life in the Irish Republican Army. Decades later, he&apos;s a well-known criminal lawyer in Dublin. This episode from IDEAS producer Mary O&apos;Connell looks at  Conway&apos;s political transformation from British admirer to IRA fighter.</description>
+      <itunes:subtitle>Bank robberies, building explosives and prison hunger strikes. These were just part of Kieran Conway&apos;s life in the Irish Republican Army. Decades later, he&apos;s a well-known criminal lawyer in Dublin. This episode from IDEAS producer Mary O&apos;Connell looks at  Conway&apos;s political transformation from British admirer to IRA fighter.</itunes:subtitle>
+      <itunes:summary>Bank robberies, building explosives and prison hunger strikes. These were just part of Kieran Conway&apos;s life in the Irish Republican Army. Decades later, he&apos;s a well-known criminal lawyer in Dublin. This episode from IDEAS producer Mary O&apos;Connell looks at  Conway&apos;s political transformation from British admirer to IRA fighter.</itunes:summary>
+      <pubDate>Mon, 22 Oct 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-rNGuLhCC-20181026.mp3" length="52757789"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-0816bdc2-9dc2-4f99-847a-f79df6efc962</guid>
+      <title>Wilde Women in a Man&apos;s World</title>
+      <description>Irish-born Oscar Wilde was Britain&apos;s most famous playwright in the late 19th century. He was also famous, or infamous, for being gay. But the people who arguably had the most important influence on him and his work were women. From the Stratford Festival, a discussion featuring writer and director Peter Hinton, literary scholar Carol Tattersall and theatre director Lezlie Wade.</description>
+      <itunes:subtitle>Irish-born Oscar Wilde was Britain&apos;s most famous playwright in the late 19th century. He was also famous, or infamous, for being gay. But the people who arguably had the most important influence on him and his work were women. From the Stratford Festival, a discussion featuring writer and director Peter Hinton, literary scholar Carol Tattersall and theatre director Lezlie Wade.</itunes:subtitle>
+      <itunes:summary>Irish-born Oscar Wilde was Britain&apos;s most famous playwright in the late 19th century. He was also famous, or infamous, for being gay. But the people who arguably had the most important influence on him and his work were women. From the Stratford Festival, a discussion featuring writer and director Peter Hinton, literary scholar Carol Tattersall and theatre director Lezlie Wade.</itunes:summary>
+      <pubDate>Tue, 16 Oct 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:42</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-R8q1WuZy-20181016.mp3" length="52757827"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-a8f165db-1108-4585-8a47-de424172eecb</guid>
+      <title>A book lover, his library and the Scottish Enlightenment (Encore February 22, 2018)</title>
+      <description>Two hundred and fifty years ago, a relatively remote and economically-challenged country called Scotland became the surprising host to one of the most exciting intellectual developments in the world. Magically, the best and the brightest minds were being promoted and distributed by enterprising and adventurous publishers, in places like Edinburgh, Glasgow and Aberdeen. Not surprisingly, a select group of printers with rare genius rose to meet an obvious need. Beautiful books were born! Part 2 of a 3-part series.</description>
+      <itunes:subtitle>Two hundred and fifty years ago, a relatively remote and economically-challenged country called Scotland became the surprising host to one of the most exciting intellectual developments in the world. Magically, the best and the brightest minds were being promoted and distributed by enterprising and adventurous publishers, in places like Edinburgh, Glasgow and Aberdeen. Not surprisingly, a select group of printers with rare genius rose to meet an obvious need. Beautiful books were born! Part 2 of a 3-part series.</itunes:subtitle>
+      <itunes:summary>Two hundred and fifty years ago, a relatively remote and economically-challenged country called Scotland became the surprising host to one of the most exciting intellectual developments in the world. Magically, the best and the brightest minds were being promoted and distributed by enterprising and adventurous publishers, in places like Edinburgh, Glasgow and Aberdeen. Not surprisingly, a select group of printers with rare genius rose to meet an obvious need. Beautiful books were born! Part 2 of a 3-part series.</itunes:summary>
+      <pubDate>Thu, 11 Oct 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:43</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-rWykllrg-20181011.mp3" length="52765551"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-3e14cd4f-052e-44fa-8534-a22cc58c2396</guid>
+      <title>The Life Course - trauma, migration and &apos;renoviction&apos; in Vancouver</title>
+      <description>PhD student Mei Lan Fang&apos;s parents survived the Cultural Revolution and immigrated to Canada with dreams of settling in a country where human rights are protected and social mobility is possible. After years of financial struggle in Vancouver, the family verged on homelessness. Mei uses her family&apos;s own experience of migration from China to help her understand the life struggles of Vancouver&apos;s marginalized seniors in a virtually impossible housing market. Her approach is known as the &quot;life course perspective&quot;, reflecting a shift in how many social scientists view their work, and their roles.</description>
+      <itunes:subtitle>PhD student Mei Lan Fang&apos;s parents survived the Cultural Revolution and immigrated to Canada with dreams of settling in a country where human rights are protected and social mobility is possible. After years of financial struggle in Vancouver, the family verged on homelessness. Mei uses her family&apos;s own experience of migration from China to help her understand the life struggles of Vancouver&apos;s marginalized seniors in a virtually impossible housing market. Her approach is known as the &quot;life course perspective&quot;, reflecting a shift in how many social scientists view their work, and their roles.</itunes:subtitle>
+      <itunes:summary>PhD student Mei Lan Fang&apos;s parents survived the Cultural Revolution and immigrated to Canada with dreams of settling in a country where human rights are protected and social mobility is possible. After years of financial struggle in Vancouver, the family verged on homelessness. Mei uses her family&apos;s own experience of migration from China to help her understand the life struggles of Vancouver&apos;s marginalized seniors in a virtually impossible housing market. Her approach is known as the &quot;life course perspective&quot;, reflecting a shift in how many social scientists view their work, and their roles.</itunes:summary>
+      <pubDate>Tue, 09 Oct 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:46</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-fcjQ8lke-20181009.mp3" length="52822039"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-c73afb27-6a91-4544-ace8-b4d12e109bd0</guid>
+      <title>Neil Turok on the invention of innovation</title>
+      <description>&quot;Innovation is actually built into our DNA. It&apos;s who we are. It&apos;s what makes us different&quot;. This is the provocative thesis of Neil Turok, Director of Perimeter Institute for Theoretical Physics. Our true evolution he argues, is the result of trial and error (with more error!) played out over centuries. In this public talk and subsequent interview with Paul Kennedy, Turok expands on what he means by innovation, and how embracing the concept can open doors for the betterment of humankind.</description>
+      <itunes:subtitle>&quot;Innovation is actually built into our DNA. It&apos;s who we are. It&apos;s what makes us different&quot;. This is the provocative thesis of Neil Turok, Director of Perimeter Institute for Theoretical Physics. Our true evolution he argues, is the result of trial and error (with more error!) played out over centuries. In this public talk and subsequent interview with Paul Kennedy, Turok expands on what he means by innovation, and how embracing the concept can open doors for the betterment of humankind.</itunes:subtitle>
+      <itunes:summary>&quot;Innovation is actually built into our DNA. It&apos;s who we are. It&apos;s what makes us different&quot;. This is the provocative thesis of Neil Turok, Director of Perimeter Institute for Theoretical Physics. Our true evolution he argues, is the result of trial and error (with more error!) played out over centuries. In this public talk and subsequent interview with Paul Kennedy, Turok expands on what he means by innovation, and how embracing the concept can open doors for the betterment of humankind.</itunes:summary>
+      <pubDate>Mon, 08 Oct 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:46</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-BMtomcDp-20181005.mp3" length="52814384"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-0e2a8256-d18e-4c31-a896-5f2bb0a9f40c</guid>
+      <title>The Scottish Enlightenment: The invention of modern mind and culture (Encore Jan 25, 2018)</title>
+      <description>Approximately 250 years ago, the windswept and unwelcoming capital of a relatively insignificant northern nation became a beacon of intelligence for the entire world. Paul Kennedy walks up and down &apos;The Royal Mile&apos;, and through the planned streets and elegant squares of Edinburgh&apos;s &apos;New Town&apos;, in search of places once occupied or visited by the likes of Adam Smith, David Hume, James Boswell and Robert Burns.</description>
+      <itunes:subtitle>Approximately 250 years ago, the windswept and unwelcoming capital of a relatively insignificant northern nation became a beacon of intelligence for the entire world. Paul Kennedy walks up and down &apos;The Royal Mile&apos;, and through the planned streets and elegant squares of Edinburgh&apos;s &apos;New Town&apos;, in search of places once occupied or visited by the likes of Adam Smith, David Hume, James Boswell and Robert Burns.</itunes:subtitle>
+      <itunes:summary>Approximately 250 years ago, the windswept and unwelcoming capital of a relatively insignificant northern nation became a beacon of intelligence for the entire world. Paul Kennedy walks up and down &apos;The Royal Mile&apos;, and through the planned streets and elegant squares of Edinburgh&apos;s &apos;New Town&apos;, in search of places once occupied or visited by the likes of Adam Smith, David Hume, James Boswell and Robert Burns.</itunes:summary>
+      <pubDate>Thu, 04 Oct 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:47</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-uLjEB7lX-20181005.mp3" length="52829817"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-709169f0-0660-4e29-a123-b999d62f496e</guid>
+      <title>The Enright Files on Race and Racism</title>
+      <description>Decades after the civil rights era, the post-colonial movement, and the beginning of the multiculturalism project, racism that had lain in the shadows of Western democracies is out in the open and thriving. On this month&apos;s edition of The Enright Files, conversations about the history and persistence of racism and an ideology of whiteness that lies behind it.</description>
+      <itunes:subtitle>Decades after the civil rights era, the post-colonial movement, and the beginning of the multiculturalism project, racism that had lain in the shadows of Western democracies is out in the open and thriving. On this month&apos;s edition of The Enright Files, conversations about the history and persistence of racism and an ideology of whiteness that lies behind it.</itunes:subtitle>
+      <itunes:summary>Decades after the civil rights era, the post-colonial movement, and the beginning of the multiculturalism project, racism that had lain in the shadows of Western democracies is out in the open and thriving. On this month&apos;s edition of The Enright Files, conversations about the history and persistence of racism and an ideology of whiteness that lies behind it.</itunes:summary>
+      <pubDate>Mon, 01 Oct 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:39</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-j1OjvwH1-20181001.mp3" length="52704325"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-ab34e270-b82b-4151-93ba-18faf56992bb</guid>
+      <title>Is Neoliberalism destroying the world?</title>
+      <description>Deregulation. Infinite growth. Self-correcting markets. All are hallmarks of neoliberal thinking. But they&apos;re more than just assumptions about the economy. They undergird much of the most influential thinking about governance right now, and dominate political and economic thinking everywhere. The results, according to some, have been disastrous. Investigative journalist Bruce Livesey asks four experts about the rise and rule of neoliberal thought, and what it may mean for societies around the world.</description>
+      <itunes:subtitle>Deregulation. Infinite growth. Self-correcting markets. All are hallmarks of neoliberal thinking. But they&apos;re more than just assumptions about the economy. They undergird much of the most influential thinking about governance right now, and dominate political and economic thinking everywhere. The results, according to some, have been disastrous. Investigative journalist Bruce Livesey asks four experts about the rise and rule of neoliberal thought, and what it may mean for societies around the world.</itunes:subtitle>
+      <itunes:summary>Deregulation. Infinite growth. Self-correcting markets. All are hallmarks of neoliberal thinking. But they&apos;re more than just assumptions about the economy. They undergird much of the most influential thinking about governance right now, and dominate political and economic thinking everywhere. The results, according to some, have been disastrous. Investigative journalist Bruce Livesey asks four experts about the rise and rule of neoliberal thought, and what it may mean for societies around the world.</itunes:summary>
+      <pubDate>Wed, 26 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:36</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-sYakMT5w-20180926.mp3" length="52663929"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-875f47c6-cdd5-409a-be58-ea2b96f696a5</guid>
+      <title>Shaking the snow globe: Michael Pollan on the therapeutic use of psychedelic drugs</title>
+      <description>In his book &quot;How to Change Your Mind&quot;, Michael Pollan explores how psychedelic drugs have been used to enhance spiritual experiences and treat many conditions from depression to anxiety. He speaks to IDEAS producer, Mary O&apos;Connell.</description>
+      <itunes:subtitle>In his book &quot;How to Change Your Mind&quot;, Michael Pollan explores how psychedelic drugs have been used to enhance spiritual experiences and treat many conditions from depression to anxiety. He speaks to IDEAS producer, Mary O&apos;Connell.</itunes:subtitle>
+      <itunes:summary>In his book &quot;How to Change Your Mind&quot;, Michael Pollan explores how psychedelic drugs have been used to enhance spiritual experiences and treat many conditions from depression to anxiety. He speaks to IDEAS producer, Mary O&apos;Connell.</itunes:summary>
+      <pubDate>Tue, 25 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:36</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-86hTzBIh-20180925.mp3" length="52663700"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-266955de-c22f-4d10-a4b0-1151b12efa72</guid>
+      <title>The Bison and the &quot;B&quot;</title>
+      <description>It was a simple file folder, enigmatically labelled &quot;B&quot;. But it was the key to learning how a small secret society of key scientists in the federal government in the 1920s, thwarted an ill-conceived plan to move Plains Bison into Wood Buffalo National Park because it would have mixed incompatible species. But the &quot;Brotherhood&quot; did much more than that. Author and naturalist Briony Penn tells the story of the B, and how over the decades they quietly shaped the environmental movement and how we think about nature.</description>
+      <itunes:subtitle>It was a simple file folder, enigmatically labelled &quot;B&quot;. But it was the key to learning how a small secret society of key scientists in the federal government in the 1920s, thwarted an ill-conceived plan to move Plains Bison into Wood Buffalo National Park because it would have mixed incompatible species. But the &quot;Brotherhood&quot; did much more than that. Author and naturalist Briony Penn tells the story of the B, and how over the decades they quietly shaped the environmental movement and how we think about nature.</itunes:subtitle>
+      <itunes:summary>It was a simple file folder, enigmatically labelled &quot;B&quot;. But it was the key to learning how a small secret society of key scientists in the federal government in the 1920s, thwarted an ill-conceived plan to move Plains Bison into Wood Buffalo National Park because it would have mixed incompatible species. But the &quot;Brotherhood&quot; did much more than that. Author and naturalist Briony Penn tells the story of the B, and how over the decades they quietly shaped the environmental movement and how we think about nature.</itunes:summary>
+      <pubDate>Fri, 21 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:39</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-jHuvR25B-20180921.mp3" length="52708645"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-089057c3-1355-4d3f-b074-0471238ac124</guid>
+      <title>Biocentrism: Rethinking Time, Space, Consciousness, and the Illusion of Death (Encore Oct 4, 2016)</title>
+      <description>Paul Kennedy has his understanding of reality turned-upside-down by Dr. Robert Lanza in this paradigm-shifting hour. Dr. Lanza provides a compelling argument for consciousness as the basis for the universe, rather than consciousness simply being its by-product.</description>
+      <itunes:subtitle>Paul Kennedy has his understanding of reality turned-upside-down by Dr. Robert Lanza in this paradigm-shifting hour. Dr. Lanza provides a compelling argument for consciousness as the basis for the universe, rather than consciousness simply being its by-product.</itunes:subtitle>
+      <itunes:summary>Paul Kennedy has his understanding of reality turned-upside-down by Dr. Robert Lanza in this paradigm-shifting hour. Dr. Lanza provides a compelling argument for consciousness as the basis for the universe, rather than consciousness simply being its by-product.</itunes:summary>
+      <pubDate>Thu, 20 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:53</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-8FABFXG0-20180920.mp3" length="52933217"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-d31e7616-10b5-4e76-a711-d453c9cfccfc</guid>
+      <title>Planet You: The mysterious world of the microbiome</title>
+      <description>There are trillions of them on -- and in -- our bodies. Microbes have existed on earth for more than three and a half billion years. Makes you wonder who&apos;s playing host to whom, and whether we humans are merely vessels for these tiny survivors. They influence everything from intestinal disorders to mental health conditions -- and we&apos;re only just beginning to understand their power over us. Contributor Stephen Humphrey journeys into the mysterious world of the microbiome.</description>
+      <itunes:subtitle>There are trillions of them on -- and in -- our bodies. Microbes have existed on earth for more than three and a half billion years. Makes you wonder who&apos;s playing host to whom, and whether we humans are merely vessels for these tiny survivors. They influence everything from intestinal disorders to mental health conditions -- and we&apos;re only just beginning to understand their power over us. Contributor Stephen Humphrey journeys into the mysterious world of the microbiome.</itunes:subtitle>
+      <itunes:summary>There are trillions of them on -- and in -- our bodies. Microbes have existed on earth for more than three and a half billion years. Makes you wonder who&apos;s playing host to whom, and whether we humans are merely vessels for these tiny survivors. They influence everything from intestinal disorders to mental health conditions -- and we&apos;re only just beginning to understand their power over us. Contributor Stephen Humphrey journeys into the mysterious world of the microbiome.</itunes:summary>
+      <pubDate>Tue, 18 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:53</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-ZoUiTe18-20180918.mp3" length="52933383"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-95a0dc3d-38a9-41e3-80d2-85f4eeb3bd39</guid>
+      <title>Taming the Beast: Are violent urges part of men&apos;s nature? (Encore May 2, 2018)</title>
+      <description>How does a just society reconcile the desire for peace, with the desire, most often by men, for violence? How much does nature stir boys, men, to fight? And to what extent can they control that stirring? Author Daemon Fairless takes IDEAS producer Mary Lynk on a road trip to try and unlock why some men are drawn to violence. They meet up with a science teacher, a MMA fighter, and a serial killer, who are profiled in his new book: Mad Blood Stirring: The Inner Lives of Violent Men.</description>
+      <itunes:subtitle>How does a just society reconcile the desire for peace, with the desire, most often by men, for violence? How much does nature stir boys, men, to fight? And to what extent can they control that stirring? Author Daemon Fairless takes IDEAS producer Mary Lynk on a road trip to try and unlock why some men are drawn to violence. They meet up with a science teacher, a MMA fighter, and a serial killer, who are profiled in his new book: Mad Blood Stirring: The Inner Lives of Violent Men.</itunes:subtitle>
+      <itunes:summary>How does a just society reconcile the desire for peace, with the desire, most often by men, for violence? How much does nature stir boys, men, to fight? And to what extent can they control that stirring? Author Daemon Fairless takes IDEAS producer Mary Lynk on a road trip to try and unlock why some men are drawn to violence. They meet up with a science teacher, a MMA fighter, and a serial killer, who are profiled in his new book: Mad Blood Stirring: The Inner Lives of Violent Men.</itunes:summary>
+      <pubDate>Mon, 17 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:53</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-JXcpU0ou-20180918.mp3" length="52933421"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-71390cae-bd1a-43ab-8199-30d6e42098b8</guid>
+      <title>Panpsychism and the Nature of Consciousness</title>
+      <description>What is consciousness? Why does it even exist? It has long been treated as the byproduct of biological complexity. The more complicated the brain, the more self-aware. Other thinkers have seen consciousness as totally distinct from the body -- dualism. But maybe consciousness, like space and time, mass and energy, is just a basic characteristic of the universe. Maybe it&apos;s a fundamental property of matter. Welcome to the concept of &quot;panpsychism&quot;. IDEAS producer Naheed Mustafa in conversation with philosopher Philip Goff.</description>
+      <itunes:subtitle>What is consciousness? Why does it even exist? It has long been treated as the byproduct of biological complexity. The more complicated the brain, the more self-aware. Other thinkers have seen consciousness as totally distinct from the body -- dualism. But maybe consciousness, like space and time, mass and energy, is just a basic characteristic of the universe. Maybe it&apos;s a fundamental property of matter. Welcome to the concept of &quot;panpsychism&quot;. IDEAS producer Naheed Mustafa in conversation with philosopher Philip Goff.</itunes:subtitle>
+      <itunes:summary>What is consciousness? Why does it even exist? It has long been treated as the byproduct of biological complexity. The more complicated the brain, the more self-aware. Other thinkers have seen consciousness as totally distinct from the body -- dualism. But maybe consciousness, like space and time, mass and energy, is just a basic characteristic of the universe. Maybe it&apos;s a fundamental property of matter. Welcome to the concept of &quot;panpsychism&quot;. IDEAS producer Naheed Mustafa in conversation with philosopher Philip Goff.</itunes:summary>
+      <pubDate>Thu, 13 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:55:01</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-AwCVxgrs-20180913.mp3" length="53060068"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-5accca92-6dcb-45c9-9722-19f5dacf566e</guid>
+      <title>The Restaurant: A Table Divided (Encore May 21,2018)</title>
+      <description>There&apos;s a lot more happening at a restaurant than simply ordering from a menu and getting your food. Restaurants are sites of self-expression - spaces in which status and distinction are performed and lines between class, race, and gender are reflected and reinforced. Contributing producers Michelle Macklem and Zoe Tennant explore how we&apos;ve gone from dining in to dining out, and what dining out reveals about our identities.</description>
+      <itunes:subtitle>There&apos;s a lot more happening at a restaurant than simply ordering from a menu and getting your food. Restaurants are sites of self-expression - spaces in which status and distinction are performed and lines between class, race, and gender are reflected and reinforced. Contributing producers Michelle Macklem and Zoe Tennant explore how we&apos;ve gone from dining in to dining out, and what dining out reveals about our identities.</itunes:subtitle>
+      <itunes:summary>There&apos;s a lot more happening at a restaurant than simply ordering from a menu and getting your food. Restaurants are sites of self-expression - spaces in which status and distinction are performed and lines between class, race, and gender are reflected and reinforced. Contributing producers Michelle Macklem and Zoe Tennant explore how we&apos;ve gone from dining in to dining out, and what dining out reveals about our identities.</itunes:summary>
+      <pubDate>Wed, 12 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:55:01</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-a57u9qV9-20180912.mp3" length="53064994"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-f5f4f9a1-1984-413d-9c94-77d3a625148d</guid>
+      <title>What can Shakespeare teach us about Donald Trump?</title>
+      <description>Political institutions in disarray, brutal behaviour on every side, narcissistic leaders lying to the public - sound familiar?  It certainly was to Shakespeare. His plays reveal the toxic psychology that fuels a despot, as well as those who enable them.</description>
+      <itunes:subtitle>Political institutions in disarray, brutal behaviour on every side, narcissistic leaders lying to the public - sound familiar?  It certainly was to Shakespeare. His plays reveal the toxic psychology that fuels a despot, as well as those who enable them.</itunes:subtitle>
+      <itunes:summary>Political institutions in disarray, brutal behaviour on every side, narcissistic leaders lying to the public - sound familiar?  It certainly was to Shakespeare. His plays reveal the toxic psychology that fuels a despot, as well as those who enable them.</itunes:summary>
+      <pubDate>Tue, 11 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:55:01</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-zIkac77z-20180911.mp3" length="53059802"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-ab2da177-7292-45ae-8949-bd0667fadb22</guid>
+      <title>Creative Minds: Can art speak truth?</title>
+      <description>Truth and lies. Ideology and imagination. Politics and polarization. Novelist Salman Rushdie, performance artist Andrea Fraser, filmmaker Charles Officer, and musician Iskwé wrestle with making sense of our chaotic world through their work. This AGO Creative Minds event was recorded earlier this year at Toronto&apos;s Massey Hall, and was moderated by CBC&apos;s Anna Maria Tremonti.</description>
+      <itunes:subtitle>Truth and lies. Ideology and imagination. Politics and polarization. Novelist Salman Rushdie, performance artist Andrea Fraser, filmmaker Charles Officer, and musician Iskwé wrestle with making sense of our chaotic world through their work. This AGO Creative Minds event was recorded earlier this year at Toronto&apos;s Massey Hall, and was moderated by CBC&apos;s Anna Maria Tremonti.</itunes:subtitle>
+      <itunes:summary>Truth and lies. Ideology and imagination. Politics and polarization. Novelist Salman Rushdie, performance artist Andrea Fraser, filmmaker Charles Officer, and musician Iskwé wrestle with making sense of our chaotic world through their work. This AGO Creative Minds event was recorded earlier this year at Toronto&apos;s Massey Hall, and was moderated by CBC&apos;s Anna Maria Tremonti.</itunes:summary>
+      <pubDate>Mon, 10 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:55:01</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-SsecAHwy-20180910.mp3" length="53059911"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-e3f49bfa-faea-4fce-97aa-f2c65785574e</guid>
+      <title>Michael Crummey on writing and the relationship between fact and fiction</title>
+      <description>What does a novelist owe to the past? How does a writer walk the tightrope between telling a story and accurately reflecting history and geography? Acclaimed novelist Michael Crummey reflects on these questions in the annual Henry Kreisel Lecture in Edmonton, presented by the Canadian Literature Centre at the University of Alberta.</description>
+      <itunes:subtitle>What does a novelist owe to the past? How does a writer walk the tightrope between telling a story and accurately reflecting history and geography? Acclaimed novelist Michael Crummey reflects on these questions in the annual Henry Kreisel Lecture in Edmonton, presented by the Canadian Literature Centre at the University of Alberta.</itunes:subtitle>
+      <itunes:summary>What does a novelist owe to the past? How does a writer walk the tightrope between telling a story and accurately reflecting history and geography? Acclaimed novelist Michael Crummey reflects on these questions in the annual Henry Kreisel Lecture in Edmonton, presented by the Canadian Literature Centre at the University of Alberta.</itunes:summary>
+      <pubDate>Fri, 07 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:55:02</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-7M08aI84-20180907.mp3" length="53071189"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-597a0f3e-af7e-4d76-88d9-c93dcab911b1</guid>
+      <title>Internal Hard Drive: What&apos;s lost when we forget to remember</title>
+      <description>We rely on our handy smartphones to remember everything from phone numbers to our friend&apos;s birthdays. Those sleek devices serve as a type of &apos;external hard drive&apos; for our memory. Contributor Jess Shane explores what happens when the art of memorization is lost.</description>
+      <itunes:subtitle>We rely on our handy smartphones to remember everything from phone numbers to our friend&apos;s birthdays. Those sleek devices serve as a type of &apos;external hard drive&apos; for our memory. Contributor Jess Shane explores what happens when the art of memorization is lost.</itunes:subtitle>
+      <itunes:summary>We rely on our handy smartphones to remember everything from phone numbers to our friend&apos;s birthdays. Those sleek devices serve as a type of &apos;external hard drive&apos; for our memory. Contributor Jess Shane explores what happens when the art of memorization is lost.</itunes:summary>
+      <pubDate>Thu, 06 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:55:02</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-hiI4av7c-20180906.mp3" length="53075702"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-eabec777-6405-423f-8a02-6e967f84eab2</guid>
+      <title>Yuval Harari: Hacking Humanity</title>
+      <description>Yuval Harari is a global intellectual. And the internationally bestselling author is worried: our brains are getting hacked. Artificial intelligence, biotechnology and ever-sophisticated algorithms are tapping into our values, habits, tastes, desires and the very thought patterns that define us - all to control how we shop, what we read, and whom we vote for. The notion of free will is defunct.  And the grand project of liberalism, with its focus on the individual, is worn out. But in this exclusive interview with Paul Kennedy, he explains why he remains cautiously optimistic about humanity&apos;s future.</description>
+      <itunes:subtitle>Yuval Harari is a global intellectual. And the internationally bestselling author is worried: our brains are getting hacked. Artificial intelligence, biotechnology and ever-sophisticated algorithms are tapping into our values, habits, tastes, desires and the very thought patterns that define us - all to control how we shop, what we read, and whom we vote for. The notion of free will is defunct.  And the grand project of liberalism, with its focus on the individual, is worn out. But in this exclusive interview with Paul Kennedy, he explains why he remains cautiously optimistic about humanity&apos;s future.</itunes:subtitle>
+      <itunes:summary>Yuval Harari is a global intellectual. And the internationally bestselling author is worried: our brains are getting hacked. Artificial intelligence, biotechnology and ever-sophisticated algorithms are tapping into our values, habits, tastes, desires and the very thought patterns that define us - all to control how we shop, what we read, and whom we vote for. The notion of free will is defunct.  And the grand project of liberalism, with its focus on the individual, is worn out. But in this exclusive interview with Paul Kennedy, he explains why he remains cautiously optimistic about humanity&apos;s future.</itunes:summary>
+      <pubDate>Wed, 05 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:55:02</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-bSeEKZH1-20180905.mp3" length="53076437"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-27d4844b-dc07-473e-9e1a-145c9c638e8f</guid>
+      <title>The Enright Files on the state of democracy in 2018</title>
+      <description>These are anxious times for liberal democracy&apos;s true believers. They&apos;ve seen the rise of strongman autocrats and xenophobic populists across a full spectrum of democratic countries, not to mention the disruptive force of Donald Trump. Cyber attacks, big data, social media, and voter indifference, anger and disillusionment all seem to leave the future of liberal democracy looking rather uncertain. On this month&apos;s edition of The Enright Files we explore the state of democracy in 2018.</description>
+      <itunes:subtitle>These are anxious times for liberal democracy&apos;s true believers. They&apos;ve seen the rise of strongman autocrats and xenophobic populists across a full spectrum of democratic countries, not to mention the disruptive force of Donald Trump. Cyber attacks, big data, social media, and voter indifference, anger and disillusionment all seem to leave the future of liberal democracy looking rather uncertain. On this month&apos;s edition of The Enright Files we explore the state of democracy in 2018.</itunes:subtitle>
+      <itunes:summary>These are anxious times for liberal democracy&apos;s true believers. They&apos;ve seen the rise of strongman autocrats and xenophobic populists across a full spectrum of democratic countries, not to mention the disruptive force of Donald Trump. Cyber attacks, big data, social media, and voter indifference, anger and disillusionment all seem to leave the future of liberal democracy looking rather uncertain. On this month&apos;s edition of The Enright Files we explore the state of democracy in 2018.</itunes:summary>
+      <pubDate>Tue, 04 Sep 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:55:02</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-PyQxll3a-20180904.mp3" length="53076338"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-485d2eea-db8d-4824-8896-1cd35ad856ba</guid>
+      <title>The Politics of the Professoriat: Political diversity on campus (Encore September 8, 2017)</title>
+      <description>Universities are supposed to be dedicated to the exchange of ideas. But according to social psychologist Jonathan Haidt, campuses now skew so far to the left that they&apos;ve become &quot;political monocultures&quot;.</description>
+      <itunes:subtitle>Universities are supposed to be dedicated to the exchange of ideas. But according to social psychologist Jonathan Haidt, campuses now skew so far to the left that they&apos;ve become &quot;political monocultures&quot;.</itunes:subtitle>
+      <itunes:summary>Universities are supposed to be dedicated to the exchange of ideas. But according to social psychologist Jonathan Haidt, campuses now skew so far to the left that they&apos;ve become &quot;political monocultures&quot;.</itunes:summary>
+      <pubDate>Fri, 31 Aug 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:55</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-jkcjgr7c-20180828.mp3" length="52958646"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-833b57ee-7208-46a0-84dc-c4cc529341d0</guid>
+      <title>The 2017 CBC Massey Lectures: In Search of a Better World, Q&amp;A (Encore April 2, 2018)</title>
+      <description>How can we fix our broken world? And what does it actually mean to love your neighbour? Those are some of the questions raised by Payam Akhavan in the 2017 CBC Massey Lectures - on air, and on tour. We also invited you, our listeners, to send us your questions. In this episode, we hear excerpts from the audience discussions after the five lectures, along with Payam Akhavan in conversation with Paul Kennedy answering questions sent in by our listeners.</description>
+      <itunes:subtitle>How can we fix our broken world? And what does it actually mean to love your neighbour? Those are some of the questions raised by Payam Akhavan in the 2017 CBC Massey Lectures - on air, and on tour. We also invited you, our listeners, to send us your questions. In this episode, we hear excerpts from the audience discussions after the five lectures, along with Payam Akhavan in conversation with Paul Kennedy answering questions sent in by our listeners.</itunes:subtitle>
+      <itunes:summary>How can we fix our broken world? And what does it actually mean to love your neighbour? Those are some of the questions raised by Payam Akhavan in the 2017 CBC Massey Lectures - on air, and on tour. We also invited you, our listeners, to send us your questions. In this episode, we hear excerpts from the audience discussions after the five lectures, along with Payam Akhavan in conversation with Paul Kennedy answering questions sent in by our listeners.</itunes:summary>
+      <pubDate>Thu, 30 Aug 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:53</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-Z03xKaO3-20180828.mp3" length="52928382"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-7e0d187c-7762-4bbf-8364-786eab51d847</guid>
+      <title>The 2017 CBC Massey Lectures: In Search of a Better World, Lecture 5 (Encore November 10, 2017)</title>
+      <description>In his final lecture, Payam Akhavan looks through the eyes of a suicide bomber to chart the rise of extremism and the decline of &apos;basic human dignity&apos;. He concludes the series explaining how we can end hate and see how interconnected we all are.</description>
+      <itunes:subtitle>In his final lecture, Payam Akhavan looks through the eyes of a suicide bomber to chart the rise of extremism and the decline of &apos;basic human dignity&apos;. He concludes the series explaining how we can end hate and see how interconnected we all are.</itunes:subtitle>
+      <itunes:summary>In his final lecture, Payam Akhavan looks through the eyes of a suicide bomber to chart the rise of extremism and the decline of &apos;basic human dignity&apos;. He concludes the series explaining how we can end hate and see how interconnected we all are.</itunes:summary>
+      <pubDate>Wed, 29 Aug 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:55</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-sixDv96f-20180828.mp3" length="52960365"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-b4821835-656d-4d9f-8df4-c516594c1225</guid>
+      <title>It&apos;s Alive! - Frankenstein at 200 (Encore April 16, 2018)</title>
+      <description>In 1818, the world was introduced to an entirely new kind of monster. Mary Shelley published Frankenstein: or The Modern Prometheus and for two centuries her creation has stalked the stage, then the screen; inspired art, and filled the pages of countless sequels and comic books. Frankenstein&apos;s creature has become the most famous monster of the modern era.</description>
+      <itunes:subtitle>In 1818, the world was introduced to an entirely new kind of monster. Mary Shelley published Frankenstein: or The Modern Prometheus and for two centuries her creation has stalked the stage, then the screen; inspired art, and filled the pages of countless sequels and comic books. Frankenstein&apos;s creature has become the most famous monster of the modern era.</itunes:subtitle>
+      <itunes:summary>In 1818, the world was introduced to an entirely new kind of monster. Mary Shelley published Frankenstein: or The Modern Prometheus and for two centuries her creation has stalked the stage, then the screen; inspired art, and filled the pages of countless sequels and comic books. Frankenstein&apos;s creature has become the most famous monster of the modern era.</itunes:summary>
+      <pubDate>Tue, 28 Aug 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:54</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-SuUxbSpW-20180828.mp3" length="52944557"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <guid>ideas-931817cc-3314-4a3f-88ee-b1ba1a238534</guid>
+      <title>Can we save Rosemary&apos;s Baby? (Encore March 15, 2018)</title>
+      <description>It&apos;s a horror classic from the 1960s that still unnerves us. It&apos;s influenced generations of filmmakers. It&apos;s part of the exclusive Criterion Collection of world cinema. And it turns 50 this year. But director Roman Polanski is a convicted rapist. Film experts and cultural historians explore good and evil in Rosemary&apos;s Baby, discover eerie parallels between 1968 and 2018, and debate the movie&apos;s surprising treatment of women, all to answer the question: can we save Rosemary&apos;s Baby?</description>
+      <itunes:subtitle>It&apos;s a horror classic from the 1960s that still unnerves us. It&apos;s influenced generations of filmmakers. It&apos;s part of the exclusive Criterion Collection of world cinema. And it turns 50 this year. But director Roman Polanski is a convicted rapist. Film experts and cultural historians explore good and evil in Rosemary&apos;s Baby, discover eerie parallels between 1968 and 2018, and debate the movie&apos;s surprising treatment of women, all to answer the question: can we save Rosemary&apos;s Baby?</itunes:subtitle>
+      <itunes:summary>It&apos;s a horror classic from the 1960s that still unnerves us. It&apos;s influenced generations of filmmakers. It&apos;s part of the exclusive Criterion Collection of world cinema. And it turns 50 this year. But director Roman Polanski is a convicted rapist. Film experts and cultural historians explore good and evil in Rosemary&apos;s Baby, discover eerie parallels between 1968 and 2018, and debate the movie&apos;s surprising treatment of women, all to answer the question: can we save Rosemary&apos;s Baby?</itunes:summary>
+      <pubDate>Mon, 27 Aug 2018 12:00:00 EDT</pubDate>
+      <itunes:duration>00:54:57</itunes:duration>
+      <itunes:explicit>No</itunes:explicit>
+      <enclosure url="https://podcast-a.akamaihd.net/mp3/podcasts/ideas-NlZlEMcj-20180827.mp3" length="52988541"
+        type="audio/mpeg" />
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
